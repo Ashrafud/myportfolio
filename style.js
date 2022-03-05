@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	$(".about-container").hover(function(){
+	$(".about-container").mouseenter(function(){
     $("img").fadeIn(1500);
   })
   $(".form-container").mouseenter(function(){
