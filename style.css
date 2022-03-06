@@ -25,6 +25,7 @@ body{
 
 .education-container{
 	background-color: #EEEEEE;
+	padding-top: 15px;
 }
 .bg-redtype{
 	background-color: #FB857F;
@@ -43,16 +44,19 @@ body{
 }
 .project-container{
 	background-color: #2BB3DD;
+	padding-top: 15px;
 }
 
 .form-container{
 	background-color: #474D5D;
+	padding-top: 15px;
 }
 .inner-form{
 	background-color: #585F73;
 }
 .footer{
 	background-color: #2BB3DD;
+	padding-top: 15px;
 }
 
 .footer-circle{
@@ -81,3 +85,9 @@ body{
 		overflow: hidden;
 		display: none;
 	}
+	.nav-shadow{
+		box-shadow: 3px 3px 15px;
+}
+.Portfolio-container{
+	padding-top: 15px;
+}
